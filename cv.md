@@ -1,21 +1,21 @@
-# Ivan Kish #
+# Ivan Kish
 
-### Contact info: ###
+### Contact info:
   * cellphone: +380662967288
   * e-mail: kish322@gmail.com
   * [Telegram](http://https://t.me/john_sneg)
   
-### Summary: ### 
+### Summary:
   * my goal is to start work as Junior Front-End Developer
   
-### Skills: ###
+### Skills:
   * HTML5
   * CSS3
   * Javascript
   * Git
   * Scrum
   
-### Code examples: ###
+### Code examples:
 ```
 function values(obj) {
     let valuesArray = [];
@@ -28,17 +28,17 @@ function values(obj) {
 }
 ```
 
-### Experience: ###
+### Experience:
 
   * projects from freecodecamp.com
   * EPAM Front-End LAB #11
   
-### Education: ###
+### Education:
 
   * htmlacademy.ru
   * codecademy.com
   * freecodecamp.com
   * prometheus.com
   
-### English: ###
+### English:
 B1 (Intermediate)
